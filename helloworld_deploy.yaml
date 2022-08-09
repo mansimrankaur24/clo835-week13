@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: 047923129740.dkr.ecr.us-east-1.amazonaws.com/week12-app:6e46a8f
+        image: 737641393003.dkr.ecr.us-east-1.amazonaws.com/week13-app:v1.0
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 80
